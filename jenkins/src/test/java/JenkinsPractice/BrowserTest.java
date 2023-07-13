@@ -2,7 +2,7 @@ package JenkinsPractice;
 
 import org.testng.annotations.Test;
 
-public class Browser 
+public class BrowserTest 
 {
 	@Test
 	public void m1()
